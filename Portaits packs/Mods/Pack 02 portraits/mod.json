@@ -1,0 +1,15 @@
+{
+	"name" : "Pack02 portraits",
+	"description" : "Portaits pack for standard HoMM3 heroes",
+	"version" : "1.0",
+	"author" : "Nitroflower",
+	"contact" : "http://modhomm3.free.fr/",
+	"modType" : "Graphical",
+	"conflicts" :
+    [
+        "Pack01 portraits",
+		"Dtnmang portraits",
+		"StrikerX portraits",
+		"Vallex portraits"
+    ]
+}

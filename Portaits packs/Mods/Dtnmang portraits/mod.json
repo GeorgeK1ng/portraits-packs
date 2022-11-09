@@ -1,0 +1,15 @@
+{
+	"name" : "Dtnmang portraits",
+	"description" : "Portaits pack for standard HoMM3 heroes",
+	"version" : "1.0",
+	"author" : "Dtnmang",
+	"contact" : "http://heroescommunity.com/viewthread.php3?TID=39062",
+	"modType" : "Graphical",
+	"conflicts" :
+    [
+        "Pack01 portraits",
+		"Pack02 portraits",
+		"StrikerX portraits",
+		"Vallex portraits"
+    ]
+}
