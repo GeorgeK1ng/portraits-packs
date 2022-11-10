@@ -1,0 +1,16 @@
+{
+	"name" : "StableDiffusion AI portrait",
+	"description" : "Heroes3 portraits generated with StableDiffusion AI algorithm",
+	"version" : "1.0",
+	"author" : "hahaohlol2131",
+	"contact" : "https://www.reddit.com/r/heroes3/comments/xssjwt/all_portraits_from_heroes_of_might_and_magic_iii/",
+	"modType" : "Graphical",
+	"conflicts" :
+    [
+        "Dtnmang portraits",
+		"Pack01 portraits",
+		"Pack02 portraits",
+		"StrikerX portraits",
+		"Vallex portraits"
+    ]
+}

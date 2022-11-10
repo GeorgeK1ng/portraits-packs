@@ -1,8 +1,13 @@
 {
 	"name" : "Portraits Packs",
 	"description" : "Portaits packs for standard HoMM3 heroes",
-	"version" : "1.0",
+	"version" : "1.1",
 	"author" : "ported from ERA2 mods by avatar",
 	"contact" : "misiokes@gmail.com",
-	"modType" : "Graphical"
+	"modType" : "Graphical",
+	"changelog" :
+    {
+        "1.0"   : [ "Initial release" ],
+		"1.1"   : [ "Added StableDiffusion AI portraits pack" ]
+    } 	
 }
