@@ -1,0 +1,17 @@
+{
+	"name" : "Aphra's Stable Diffusion Portraits",
+	"description" : "Hero portraits generated using Stable Diffusion by @RonFish on pikabu.ru. Compiled and edited by Aphra.",
+	"version" : "0.7.0",
+	"author" : "Aphra, RonFish",
+	"contact" : "",
+	"modType" : "Graphical",
+	"conflicts" :
+    [
+        "portaits packs.pack 01 portraits",
+		"portaits packs.dtnmang portraits",
+		"portaits packs.strikerx portraits",
+		"portaits packs.pack 02 portraits",
+		"portaits packs.stablediffusion ai portraits",
+		"portaits packs.vallex portraits"
+    ]
+}

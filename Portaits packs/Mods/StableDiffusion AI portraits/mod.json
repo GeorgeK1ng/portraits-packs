@@ -5,12 +5,14 @@
 	"author" : "hahaohlol2131",
 	"contact" : "https://www.reddit.com/r/heroes3/comments/xssjwt/all_portraits_from_heroes_of_might_and_magic_iii/",
 	"modType" : "Graphical",
+	"keepDisabled" : true,
 	"conflicts" :
     [
-        "Dtnmang portraits",
-		"Pack01 portraits",
-		"Pack02 portraits",
-		"StrikerX portraits",
-		"Vallex portraits"
+        "portaits packs.dtnmang portraits",
+		"portaits packs.pack 01 portraits",
+		"portaits packs.pack 02 portraits",
+		"portaits packs.strikerx portraits",
+		"portaits packs.vallex portraits",
+		"portaits packs.aphra's stable diffusion portraits"
     ]
 }

@@ -5,12 +5,14 @@
 	"author" : "Striker",
 	"contact" : "http://heroescommunity.com/viewthread.php3?TID=39062",
 	"modType" : "Graphical",
+	"keepDisabled" : true,
 	"conflicts" :
     [
-        "Pack01 portraits",
-		"Dtnmang portraits",
-		"Pack02 portraits",
-		"Vallex portraits",
-		"StableDiffusion AI portraits"
+        "portaits packs.pack 01 portraits",
+		"portaits packs.dtnmang portraits",
+		"portaits packs.pack 02 portraits",
+		"portaits packs.vallex portraits",
+		"portaits packs.stablediffusion ai portraits",
+		"portaits packs.aphra's stable diffusion portraits"
     ]
 }
