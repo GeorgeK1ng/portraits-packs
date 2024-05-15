@@ -1,0 +1,13 @@
+{
+	"name" : "SDP - New HotA Heroes",
+	"description" : "Hero portraits generated using Stable Diffusion by @RonFish on pikabu.ru. Compiled and edited by Aphra.",
+	"version" : "1.2.1",
+	"author" : "Aphra, RonFish",
+	"contact" : "",
+	"modType" : "Graphical"
+	"keepDisabled" : true,
+    "depends" :
+    [
+        "hota.heroes"
+    ]
+}

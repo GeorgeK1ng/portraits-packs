@@ -1,0 +1,13 @@
+{
+	"name" : "SDP - Catherine (RoE)",
+	"description" : "Hero portrait generated using Stable Diffusion by Aphra.",
+	"version" : "1.2.1",
+	"author" : "Aphra",
+	"contact" : "",
+	"modType" : "Graphical"
+	"keepDisabled" : true,
+    "depends" :
+    [
+        "campaign-heroes"
+    ]
+}

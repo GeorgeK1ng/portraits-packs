@@ -1,0 +1,13 @@
+{
+	"name" : "SDP - HotA Override",
+	"description" : "Overrides HotA portrait fixes.",
+	"version" : "1.2.1",
+	"author" : "Aphra, RonFish",
+	"contact" : "",
+	"modType" : "Graphical"
+	"keepDisabled" : true,
+    "depends" :
+    [
+        "hota.heroes"
+    ]
+}

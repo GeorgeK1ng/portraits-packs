@@ -1,0 +1,13 @@
+{
+	"name" : "SDP - Tarnum",
+	"description" : "Overrides Tarnum's original 6 + additional 3 incarnations.",
+	"version" : "1.2.1",
+	"author" : "Aphra",
+	"contact" : "",
+	"modType" : "Graphical"
+	"keepDisabled" : true,
+    "depends" :
+    [
+        "tarnum"
+    ]
+}
