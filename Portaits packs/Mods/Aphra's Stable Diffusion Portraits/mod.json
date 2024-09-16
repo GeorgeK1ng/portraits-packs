@@ -11,5 +11,16 @@
         "1.1.0" : [ "Bug fixes" ], 
         "1.2.0" : [ "Added Tarnum" ],
         "1.2.1" : [ "Added Catherine (RoE)" ]
-    }
+    },
+	"keepDisabled" : true,
+	"conflicts" :
+    [
+        "portaits packs.dtnmang portraits",
+		"portaits packs.pack 01 portraits",
+		"portaits packs.pack 02 portraits",
+		"portaits packs.strikerx portraits",
+		"portaits packs.vallex portraits",
+		"portaits packs.remastered-portraits",
+		"portaits packs.stablediffusion ai portraits"
+    ] 	
 }
