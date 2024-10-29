@@ -11,8 +11,8 @@
 	},
     "changelog" :
     {
-	"1.2"   : [ "Added druids" ],
-	"1.1"   : [ "Added demoniacs" ],
+		"1.2"   : [ "Czech translation by George King" ],
+		"1.1"   : [ "Added demoniacs" ],
         "1.0"   : [ "Initial release" ]
     },
 	"keepDisabled" : true,
@@ -25,5 +25,9 @@
 		"portaits packs.vallex portraits",
 		"portaits packs.aphra's stable diffusion portraits",
 		"portaits packs.stablediffusion ai portraits"
-    ] 	
+    ],
+	"czech" : {
+		"name" : "Remasterované portréty",
+		"description" : "VCMI port remasterovaných portrétů vytvořených LiquidValorem. DŮLEŽITÁ POZNÁMKA: Pokud hrajete s HotA, vypněte submod \"Heroes 3 data patch\", nebo přejděte do složky VCMI, Mods->hota->Mods->heroes3DataPatch->data a smažte všechny portréty hrdinů z této složky."
+	}
 }
